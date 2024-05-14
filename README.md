@@ -1,5 +1,4 @@
-# [ONGOING TRAINING]
-An app designed for a restaurant.
+An app/exercise design for a restaurant.
 
 ## Lessons reviews
 
@@ -10,3 +9,8 @@ An app designed for a restaurant.
 - SwiftUI TabView
 - SwiftUI LazyVGrids
 - State and Updating Views
+
+
+| First Tab / SwiftUI List   | Second Tab / MapKit | SwiftUI LazyVGrids |
+| ------------- | ------------- | ------------- |
+| <img src="https://i.imgur.com/aDPZpIt.png" width="250">   | <img src="https://i.imgur.com/fVzcVCQ.png" width="250"> | <img src="https://i.imgur.com/TAfEzjh.png" width="250"> |
